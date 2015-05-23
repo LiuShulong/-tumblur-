@@ -19,6 +19,7 @@
 		74B79DFA1B1078260095E711 /* CustomActivityView.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B79DF91B1078260095E711 /* CustomActivityView.m */; };
 		74B79DFE1B107E6E0095E711 /* UIScrollView+LeftLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B79DFD1B107E6E0095E711 /* UIScrollView+LeftLoad.m */; };
 		74B79E011B107ED20095E711 /* RightFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B79E001B107ED20095E711 /* RightFooterView.m */; };
+		74B79E031B10AE9B0095E711 /* 仿tumblur.gif in Resources */ = {isa = PBXBuildFile; fileRef = 74B79E021B10AE9B0095E711 /* 仿tumblur.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		74B79DFD1B107E6E0095E711 /* UIScrollView+LeftLoad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+LeftLoad.m"; sourceTree = "<group>"; };
 		74B79DFF1B107ED20095E711 /* RightFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightFooterView.h; sourceTree = "<group>"; };
 		74B79E001B107ED20095E711 /* RightFooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightFooterView.m; sourceTree = "<group>"; };
+		74B79E021B10AE9B0095E711 /* 仿tumblur.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "仿tumblur.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		74B79DBE1B1066C80095E711 = {
 			isa = PBXGroup;
 			children = (
+				74B79E021B10AE9B0095E711 /* 仿tumblur.gif */,
 				74B79DC91B1066C80095E711 /* 仿tumblur横拉加载 */,
 				74B79DE31B1066C80095E711 /* 仿tumblur横拉加载Tests */,
 				74B79DC81B1066C80095E711 /* Products */,
@@ -250,6 +253,7 @@
 			files = (
 				74B79DD61B1066C80095E711 /* Main.storyboard in Resources */,
 				74B79DDB1B1066C80095E711 /* LaunchScreen.xib in Resources */,
+				74B79E031B10AE9B0095E711 /* 仿tumblur.gif in Resources */,
 				74B79DD81B1066C80095E711 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -472,6 +476,7 @@
 				74B79DEC1B1066C80095E711 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74B79DED1B1066C80095E711 /* Build configuration list for PBXNativeTarget "仿tumblur横拉加载Tests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +485,7 @@
 				74B79DEF1B1066C80095E711 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

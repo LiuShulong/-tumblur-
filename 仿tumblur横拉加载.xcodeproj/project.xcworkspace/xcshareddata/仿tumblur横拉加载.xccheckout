@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B675EF3-7631-4EA8-B603-85DF9A16A493</string>
+	<key>IDESourceControlProjectName</key>
+	<string>仿tumblur横拉加载</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8604488D2D2A107A48145DE114DF136B74682B2</key>
+		<string>https://github.com/LiuShulong/-tumblur-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>仿tumblur横拉加载.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8604488D2D2A107A48145DE114DF136B74682B2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LiuShulong/-tumblur-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8604488D2D2A107A48145DE114DF136B74682B2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8604488D2D2A107A48145DE114DF136B74682B2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>-tumblur-</string>
+		</dict>
+	</array>
+</dict>
+</plist>
